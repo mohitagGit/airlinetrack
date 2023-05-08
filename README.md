@@ -1,6 +1,6 @@
-# Klmweb - Search Airport information via IATA code
+# AirlineWeb - Search Airport information via IATA code
 
-KLM Web is web application where you can search Airport, country and other information by entering IATA code like AMS, FCO etc
+Airline Web is web application where you can search Airport, country and other information by entering IATA code like AMS, FCO etc
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
 
