@@ -11,7 +11,6 @@ Run `ng serve` for a local server. Navigate to `http://localhost:4200/`.
 
 ## Screenshots of application
 
-![alt text](https://github.com/mohitagarwal2599/klmweb/blob/main/src/img/klm-web.png?raw=true)
 ![alt text](https://github.com/mohitagGit/airlinetrack/blob/main/src/img/klm-web.png?raw=true)
 
 ### 1. In search box enter IATA code
